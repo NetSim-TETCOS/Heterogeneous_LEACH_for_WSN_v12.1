@@ -1,0 +1,57 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  CheckRouteFound.c
+  DSR.c
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\ZigBee\802_15_4.h(311,2): error C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+  LEACH_HETEROGENEOUS.c
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\DSR.c(171,31): warning C4013: 'fn_NetSim_LEACH_HETERO_run' undefined; assuming extern returning int
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\ZigBee\802_15_4.h(311,2): error C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(64,57): warning C4013: 'fn_NetSim_LEACH_HETERO_CheckIfCH' undefined; assuming extern returning int
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(85,29): warning C4013: 'fn_NetSim_LEACH_HETERO_run' undefined; assuming extern returning int
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(48,6): warning C4101: 'i': unreferenced local variable
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(47,12): warning C4101: 'nInterface': unreferenced local variable
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(49,6): warning C4101: 'ClusterId': unreferenced local variable
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(111,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(128,39): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MaintBuffer.c
+  MATLAB_Interface.c
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\LEACH_HETEROGENEOUS.c(145,16): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\stdbool.h(16,1): warning C4005: 'false': macro redefinition
+C:\Program Files\MATLAB\R2016a\extern\include\tmwtypes.h(761): message : see previous definition of 'false'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\stdbool.h(17,1): warning C4005: 'true': macro redefinition
+C:\Program Files\MATLAB\R2016a\extern\include\tmwtypes.h(764): message : see previous definition of 'true'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\Include\main.h(212,1): warning C4005: 'printf': macro redefinition
+C:\Program Files\MATLAB\R2016a\extern\include\mex.h(190): message : see previous definition of 'printf'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\ZigBee\802_15_4.h(311,2): error C4995: 'PROPAGATION_HANDLE': name was marked as #pragma deprecated
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(87,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(136,37): warning C4013: 'fn_NetSim_LEACH_HETERO_form_cluster' undefined; assuming extern returning int
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(64,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(65,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(90): message : see declaration of 'strcat'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(66,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(74,1): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdlib.h(1191): message : see declaration of 'getenv'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(86,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(111,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(113,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(115,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(117,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(119,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
+C:\Users\TETCOS\Desktop\Heterogeneous_LEACH_for_WSN_v12.1\LEACH_HETERO_WORKSPACE\src\Simulation\DSR\MATLAB_Interface.c(123,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Network_Layer_Ack.c
+  PacketProcessing.c
+  RouteCache.c
+  RouteError.c
+  RouteReply.c
+  RouteRequest.c
+  SendBuffer.c
+  SourceRoute.c
+  Generating Code...
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1774): message : see declaration of 'sprintf'
